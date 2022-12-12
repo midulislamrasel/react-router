@@ -10,6 +10,7 @@ const Card = () => {
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio, nostrum?</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, natus?</p>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, accusamus?</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum libero asperiores </p>
         </div>
     );
 };
