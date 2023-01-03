@@ -1,12 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Shop from '../Shop/Shop';
+import css from './main.css'
 // import { Link } from 'react-router-dom';
 
 const Main = () => {
     return (
         <div>
-            <div>
+            <div className='manubar'>
                 <a href="About">About</a>
                 <a href="Footer">Footer</a>
                 <a href="Header">Header</a>
